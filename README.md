@@ -1,10 +1,11 @@
 # Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
 
 ## 🚀 Introdução
+>Oi Venilton! 💥
 
-> Woooow! Look at this 👀
+Adorei o desafio e estou super empolgada para participar! Aceito o convite com entusiasmo e já estou pronta para entregar o meu conteúdo. A ideia de explorar as IAs Generativas é incrível, e estou ansiosa para mostrar o avatar digital que criei com o auxílio da IA, combinando tecnologia e criatividade. Vamos lá! 💪👾
 
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
+Sheyla
 
 ## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
 
@@ -23,19 +24,20 @@ Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisicu
 # Título do Projeto Extremamente Aesthetic ;)
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Avatar digital interativo desenvolvido com o objetivo de representar visualmente e interagir com os usuários, utilizando tecnologia de inteligência artificial.
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+Chat GPT (IA)
+D-DI (https://studio.d-id.com)
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+O conteúdo foi desenvolvido em colaboração com o ChatGPT, sob minha supervisão. Utilizando a plataforma D-DI, criei o avatar digital a partir de um vídeo gravado por mim dentro da própria plataforma.
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+https://studio.d-id.com/share?id=c899c46dd77c34133078e8aaa2310d27&utm_source=copy
 
 ## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
+Um dos maiores desafios de criar algo 'natural' com IA é garantir que o avatar digital tenha uma aparência e comportamento fluídos, que realmente pareçam autênticos. Foi um processo repleto de tentativas e ajustes até alcançar essa versão final. Cada tentativa trouxe aprendizados importantes, e o resultado foi extremamente gratificante. Ver o avatar ganhar vida e se tornar algo tão próximo do real foi uma experiência muito legal e enriquecedora. A evolução do projeto foi uma verdadeira jornada de criação e inovação. No entanto, ainda há muito a melhorar e explorar nessas ferramentas de geração de conteúdo com IA, o que torna esse campo ainda mais empolgante e promissor.
 ```
 
 ### Exemplos e Insigths
