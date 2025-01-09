@@ -7,17 +7,6 @@ Adorei o desafio e estou super empolgada para participar! Aceito o convite com e
 
 Sheyla
 
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
 ### Template
 
 ```markdown
@@ -35,6 +24,7 @@ O conteúdo foi desenvolvido em colaboração com o ChatGPT, sob minha supervis�
 
 ## 🚀 Resultados
 https://studio.d-id.com/share?id=c899c46dd77c34133078e8aaa2310d27&utm_source=copy
+
 
 ## 💭 Reflexão (Opcional)
 Um dos maiores desafios de criar algo 'natural' com IA é garantir que o avatar digital tenha uma aparência e comportamento fluídos, que realmente pareçam autênticos. Foi um processo repleto de tentativas e ajustes até alcançar essa versão final. Cada tentativa trouxe aprendizados importantes, e o resultado foi extremamente gratificante. Ver o avatar ganhar vida e se tornar algo tão próximo do real foi uma experiência muito legal e enriquecedora. A evolução do projeto foi uma verdadeira jornada de criação e inovação. No entanto, ainda há muito a melhorar e explorar nessas ferramentas de geração de conteúdo com IA, o que torna esse campo ainda mais empolgante e promissor.
